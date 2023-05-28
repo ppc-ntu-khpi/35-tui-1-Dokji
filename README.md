@@ -1,7 +1,4 @@
 # UI Lab 1
-![](terminal-icon.png)
-
-
 # Резултьати запуску:
 ![](Lab1TUIdemo/image/res01.png)
 ![](Lab1TUIdemo/image/res011.png)
